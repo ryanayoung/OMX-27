@@ -1,0 +1,15 @@
+encoder pins 		12, 11
+encoder button 		0
+
+led pins			14, count 27
+
+analog pins			A10,22,21,20,16
+
+matrix row pins		6, 4, 3, 5, 2
+matrix col pins		7, 8, 10, 9, 15, 17
+
+cv gate pins		23
+
+cvpitch pins		A14(dac)
+
+Midi out			Probably pin 1.  It's one of the hardware serial TX lines.
